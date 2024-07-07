@@ -1,4 +1,8 @@
-## Hi there 👋
+## Lenguajes utilizados:
+![image](https://github.com/axel-zielonka/axel-zielonka/assets/131202671/c05000ac-9532-48fb-be07-864c31edbcd0) ![image](https://github.com/axel-zielonka/axel-zielonka/assets/131202671/969e43a3-589a-4b6a-b0ef-34d27ce83db3) ![image](https://github.com/axel-zielonka/axel-zielonka/assets/131202671/6f05e8e6-e5e2-45d0-850e-675efc8ff920) ![image](https://github.com/axel-zielonka/axel-zielonka/assets/131202671/5b1e1675-0be1-4e7c-895d-c8d37b2571e9)
+
+
+
 
 <!--
 **axel-zielonka/axel-zielonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
