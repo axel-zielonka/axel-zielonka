@@ -1,5 +1,5 @@
 ## Lenguajes utilizados:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,R)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,r)](https://skillicons.dev)
 
 
 
