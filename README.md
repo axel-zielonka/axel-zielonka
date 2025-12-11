@@ -26,6 +26,7 @@ A distributed system that receives 4GB datasets (`.csv` files) and analyses said
 * Multiclient.
 * Scalable. An `env` file was provided to adjust dynamically the amount of containers of each type.
 * Fault resistance. The system is fault-tolerant and is able to recuperate itself from failures
+
 [Repository](https://github.com/fiuba-distribuidos-grupo9/CoffeeShopAnalysis)
 
 ### Other academic projects
