@@ -18,6 +18,16 @@ A distributed application system that models a food deliverying app. This was a 
 ### Steam Reviews 
 An individual project in which I received a file (8GB) with steam reviews and I had to analyse the data and produce and output using the 'ForkJoin' model. [Repository](https://github.com/axel-zielonka/TPS-Concurrente/tree/main/TP1)
 
+### CoffeeShopAnalysis
+A distributed system that receives 4GB datasets (`.csv` files) and analyses said data to return an output to the client. I was a main developer, alongside two other classmates. Some specifications about this project:
+* Developed in Python
+* Docker used to simulate multicomputing. `docker-compose` file was generated dynamically reading from an `env` file.
+* Containers were connected to the same Docker network and communicated using sockets and `RabbitMQ` queues and exchanges.
+* Multiclient.
+* Scalable. An `env` file was provided to adjust dynamically the amount of containers of each type.
+* Fault resistance. The system is fault-tolerant and is able to recuperate itself from failures
+[Repository](https://github.com/fiuba-distribuidos-grupo9/CoffeeShopAnalysis)
+
 ### Other academic projects
 * Solved problems using greedy, backtracking and dynamic programming algorithms (Python)
 * Abstract Data Types such as Queue, Stack, Linked List, Binary Search Trees (C++, Java)
