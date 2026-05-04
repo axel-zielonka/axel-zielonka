@@ -1,8 +1,8 @@
 ## About Me
-My name is Axel Zielonka. I am a third year Software Engineering student at Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA). I am 21 years old. I live in Buenos Aires, Argentina. 
+My name is Axel Zielonka. I am an advanced Software Engineering student at Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA). I am 22 years old. I live in Buenos Aires, Argentina. 
 
 ## Projects
-Throughout these 3 years studying, I have been a part of several academic projects where I was able to put to test my knowledge, using languages such as C, C++, Python, Java and Rust. These projects vary from simple problems like file reading, to more complex ones like games. The top projects I have been a part of are:
+During my time as a Software Engineering Student, I have been a part of several academic projects where I was able to put to test my knowledge, using languages such as C, C++, Python, Java and Rust. These projects vary from simple problems like file reading, to more complex ones like games. The top projects I have been a part of are:
 
 ### Duck Game Remake
 A reinterpretation of the classic 'Duck Game' by Landon Podbielski. Originally a 4 person project, due to problems ended up being a 2 person job. I was responsible for designing the server logic, game physics, client-server communication and multithreading. In this [repository](https://github.com/FelipeAscencio/DuckGame-Remake) you will find the complete project alongside documentation, including user manuals and project reports explaining with detail my role in the project.
